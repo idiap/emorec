@@ -13,7 +13,7 @@
 #    GNU General Public License for more details.
 #
 #    You should have received a copy of the GNU General Public License
-#    along with Emorec. If not, see <http://www.gnu.org/licenses/>.
+#    along with EMORec. If not, see <http://www.gnu.org/licenses/>.
 
 import numpy as np
 from scipy import sparse
